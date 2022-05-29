@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "du0qQxn544fl5fItHl37+OkNMluKraDHtfW5Sq7If65xqRl5yJr7eJ6u8spD3WN9/aqtywEpJIo7V5fUhwIrhg==",
+  "success": true,
+  "projectFilePath": "/home/koompi/TestingGithub/TestingGithub.csproj",
+  "expectedPackageFiles": [
+    "/home/koompi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
